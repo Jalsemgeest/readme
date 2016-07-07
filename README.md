@@ -1,5 +1,5 @@
 # readme {
-_You can put some badges here_
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 > Here's a short description of my project
 
 I also have a longer summary here so I can provide more details
