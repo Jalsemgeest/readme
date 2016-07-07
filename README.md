@@ -10,8 +10,6 @@ I also have a longer summary here so I can provide more details
 1. [Documentation](#documentation)
   1. [Person](#person)
   1. [Dog](#dog)
-1. [Person](#person-1)
-1. [Dog](#dog-1)
 1. [License](#license)
 
 ## Installation
