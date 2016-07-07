@@ -76,9 +76,9 @@ millie.bark();
 ```
 
 ## License
-2016 © [Zack Harley][]
+2016 © [Zack Harley][1]
 > :fork_and_knife:Fork away!
 
 # }
 
-[]: https://github.com/zackharley
+[1]: https://github.com/zackharley
