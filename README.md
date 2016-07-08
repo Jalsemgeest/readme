@@ -4,7 +4,7 @@
 
 I also have a longer summary here so I can provide more details
 
-## Table of Contents
+## Contents
 1. [Installation](#installation)
 1. [Usage](#usage)
 1. [Documentation](#documentation)
